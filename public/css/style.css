@@ -1,0 +1,7 @@
+ul.wow_edd_recent_purchases, ul.wow_edd_recent_purchases_widget {
+	list-style: none;
+}
+ul.wow_edd_recent_purchases li, ul.wow_edd_recent_purchases_widget li{
+   margin-bottom:2px;
+   overflow:auto;
+}
