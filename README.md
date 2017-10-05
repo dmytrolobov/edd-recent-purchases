@@ -7,11 +7,12 @@ Plugin Easy Digital Downloads Recent Purchases is designed to show the last purc
 This Plugin outputs the list of the last purchases with the predefined users' settings.
 
 **Demo**
+
 You can see Recent Purchases on sidebar on [this page](https://wow-estore.com/item/float-menu-pro/) 
 
 ***
 
-** In the notification about the purchase you can specify: ** 
+**In the notification about the purchase you can specify:** 
 
 * customer surname;
 * customer name;
@@ -19,7 +20,7 @@ You can see Recent Purchases on sidebar on [this page](https://wow-estore.com/it
 * purchase price
 * purchase time
 
-** Main features **
+**Main features**
 
 * lists through shortcode;
 * lists through widget;
@@ -31,11 +32,11 @@ You can see Recent Purchases on sidebar on [this page](https://wow-estore.com/it
 
 This Plugin is able to show the real purchase activity on the site, thereby creating the effect of demand for products. Together with [Herd Effect](https://wordpress.org/plugins/mwp-herd-effect/) this effect increases in several times.
 
-** Other plugins that can be helpful in sales promotion: **
-* [Modal Window – create a simple popup & insert any content](https://wordpress.org/plugins/modal-window/)
-* [Countdowns – create any counter, timer and coundown](https://wordpress.org/plugins/mwp-countdown/)
-* [Forms – create any form with custom style](https://wordpress.org/plugins/mwp-forms/)
-* [Float menu – awesome floating side menu](https://wordpress.org/plugins/float-menu/)
-* [Bubble Menu – awesome custom circle menu](https://wordpress.org/plugins/bubble-menu/)
+**Other plugins that can be helpful in sales promotion:**
+* [Modal Window â€“ create a simple popup & insert any content](https://wordpress.org/plugins/modal-window/)
+* [Countdowns â€“ create any counter, timer and coundown](https://wordpress.org/plugins/mwp-countdown/)
+* [Forms â€“ create any form with custom style](https://wordpress.org/plugins/mwp-forms/)
+* [Float menu â€“ awesome floating side menu](https://wordpress.org/plugins/float-menu/)
+* [Bubble Menu â€“ awesome custom circle menu](https://wordpress.org/plugins/bubble-menu/)
 
-*** Wish you good sales! ***
+***Wish you good sales!***
